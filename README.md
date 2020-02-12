@@ -1,2 +1,2 @@
 # EtheriusCraft
-Arquivos de mods
+Arquivos para estudos de mods
